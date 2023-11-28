@@ -1,0 +1,96 @@
+HTML (Hypertext Markup Language): Fondasi Struktur Halaman Web
+
+HTML (Hypertext Markup Language) adalah bahasa markup yang digunakan untuk membuat struktur dasar halaman web. Dalam pemrograman web, pemahaman yang mendalam tentang HTML sangat penting karena ini adalah tulang punggung dari konten web. Mari kita eksplorasi HTML dari dasar hingga konsep lanjutan:
+
+---
+
+**1. Pengenalan HTML:**
+   - HTML adalah bahasa markup yang terdiri dari tag dan atribut.
+   - Tag HTML mendefinisikan elemen, seperti `<p>` untuk paragraf atau `<img>` untuk gambar.
+
+---
+
+**2. Struktur Dasar HTML:**
+   - Setiap halaman HTML dimulai dengan elemen `<html>` dan memiliki dua bagian utama: `<head>` dan `<body>`.
+   - Bagian `<head>` berisi informasi meta dan judul halaman, sementara `<body>` berisi konten utama.
+
+---
+
+**3. Tag Dasar HTML:**
+   - Tag elemen dasar seperti `<h1>` hingga `<h6>` untuk judul.
+   - Penggunaan tag `<p>` untuk paragraf dan `<a>` untuk tautan (link).
+
+---
+
+**4. Elemen Konten Multimedia:**
+   - `<img>` digunakan untuk menyisipkan gambar dengan atribut sumber (`src`).
+   - `<audio>` dan `<video>` untuk menambahkan elemen multimedia ke halaman.
+
+---
+
+**5. Tabel HTML:**
+   - Tag `<table>`, `<tr>`, `<td>`, dan `<th>` digunakan untuk membuat tabel.
+   - Atribut seperti `colspan` dan `rowspan` membantu mengatur tata letak tabel.
+
+---
+
+**6. Formulir dan Input:**
+   - Formulir HTML (`<form>`) digunakan untuk mengumpulkan data dari pengguna.
+   - Elemen input (`<input>`) untuk menerima input teks, kata sandi, dan lainnya.
+
+---
+
+**7. Atribut HTML:**
+   - Atribut memberikan informasi tambahan tentang elemen.
+   - Contoh atribut melibatkan `class`, `id`, `style`, dan `href`.
+
+---
+
+**8. Semantic HTML:**
+   - Penggunaan elemen semantik seperti `<article>`, `<section>`, `<header>`, dan `<footer>` untuk memberikan makna struktural pada halaman.
+
+---
+
+**9. HTML5 dan Struktur Dokumen:**
+   - HTML5 memperkenalkan elemen-elemen baru seperti `<nav>`, `<aside>`, dan `<figure>`.
+   - Tag `<header>` dan `<footer>` digunakan untuk menandai bagian atas dan bawah halaman.
+
+---
+
+**10. Karakter Khusus HTML:**
+    - Karakter seperti `<`, `>`, dan `&` memiliki representasi khusus dalam HTML (entitas HTML).
+    - Contoh: `&lt;` untuk `<`, `&gt;` untuk `>`.
+
+---
+
+**11. Penggunaan Komentar:**
+    - Komentar dalam HTML ditandai dengan `<!-- komentar -->`.
+    - Berguna untuk memberikan penjelasan pada kode atau menyembunyikan sebagian kode.
+
+---
+
+**12. Validasi HTML:**
+    - Pemeriksaan validitas HTML menggunakan layanan seperti W3C Validator.
+    - HTML yang valid memastikan konsistensi dan kompatibilitas lintas peramban.
+
+---
+
+**13. Integrasi CSS dan JavaScript:**
+    - Menggunakan atribut `style` dalam elemen HTML untuk memberikan gaya langsung.
+    - Penanaman skrip JavaScript dengan tag `<script>`.
+
+---
+
+**14. Penggunaan Elemen Meta:**
+    - Elemen `<meta>` dalam bagian `<head>` untuk menyediakan metadata seperti deskripsi halaman dan karakter set.
+
+---
+
+**15. Rujukan ke CSS dan JS Eksternal:**
+    - Link eksternal ke berkas CSS menggunakan tag `<link>` dalam bagian `<head>`.
+    - Penanaman skrip JavaScript eksternal menggunakan tag `<script>` dengan atribut `src`.
+
+---
+
+**Kesimpulan:**
+Dengan memahami dasar-dasar HTML dan menerapkan elemen-elemen ini dengan bijak, pengembang dapat membuat halaman web yang terstruktur, tersemantik, dan sesuai dengan standar. HTML, sebagai bahasa markup utama dalam pemrograman web, memberikan dasar yang kokoh untuk membangun pengalaman web yang kaya dan bermakna. Teruslah menjelajahi fitur-fitur HTML baru dan praktik terbaik dalam pengembangan web modern.

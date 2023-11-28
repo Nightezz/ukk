@@ -1,0 +1,32 @@
+p {
+	  text-align: justify;
+}
+ul {
+	  text-align: justify;
+}
+body {
+      background-image: url(Bahan/background.png);
+      background-size: cover;
+}
+.p {
+	  color: blue;
+}
+p,ul,h3 {
+      font-family: "Courier New", Courier, monospace;
+      color: darkgreen;
+}
+a {
+      font-family: "Arial", sans-serif;
+      text-decoration: none;
+      color: black;
+}
+.pr {
+      font-family: "Helvetica", Arial, sans-serif;
+      font: bold;
+}
+.td {
+	background-color: beige;
+}
+.copy {
+	color: black;
+}
